@@ -1,0 +1,27 @@
+[project]
+name = "naver-map-mcp"
+version = "0.1.0"
+description = "MCP for Naver Maps API"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx[http2]>=0.28.1",
+    "mcp[cli]>=1.7.1",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+naver-map-mcp = "naver-map-mcp:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.9",
+]
+
+[tool.ruff]
+line-length = 100
+indent-width = 2

@@ -1,0 +1,92 @@
+[
+  {
+    "case_number": "2024타경12345",
+    "address": "서울 강남구 역삼동 123-45 역삼래미안아파트 101동 1501호",
+    "appraisal_value": 1850000000,
+    "minimum_bid": 1184000000,
+    "failed_count": 2,
+    "bid_date": "2025-12-16",
+    "encumbrances": "근저당 9억(국민은행), 전세권 없음"
+  },
+  {
+    "case_number": "2024타경23456",
+    "address": "서울 강남구 대치동 234-56 대치삼성아파트 202동 805호",
+    "appraisal_value": 2450000000,
+    "minimum_bid": 1568000000,
+    "failed_count": 2,
+    "bid_date": "2025-12-16",
+    "encumbrances": "근저당 12억(신한은행), 가압류 5000만(개인)"
+  },
+  {
+    "case_number": "2024타경34567",
+    "address": "서울 강남구 삼성동 345-67 삼성파크빌아파트 301동 2302호",
+    "appraisal_value": 3200000000,
+    "minimum_bid": 2560000000,
+    "failed_count": 1,
+    "bid_date": "2025-12-23",
+    "encumbrances": "근저당 15억(우리은행)"
+  },
+  {
+    "case_number": "2024타경45678",
+    "address": "서울 강남구 청담동 456-78 청담자이아파트 102동 1801호",
+    "appraisal_value": 4100000000,
+    "minimum_bid": 2624000000,
+    "failed_count": 2,
+    "bid_date": "2025-12-23",
+    "encumbrances": "근저당 18억(하나은행), 전세권 3억"
+  },
+  {
+    "case_number": "2025타경56789",
+    "address": "서울 강남구 개포동 567-89 개포래미안아파트 501동 1205호",
+    "appraisal_value": 1680000000,
+    "minimum_bid": 1344000000,
+    "failed_count": 1,
+    "bid_date": "2025-12-30",
+    "encumbrances": "근저당 7억(KB국민은행)"
+  },
+  {
+    "case_number": "2025타경67890",
+    "address": "서울 강남구 도곡동 678-90 도곡렉슬아파트 401동 2103호",
+    "appraisal_value": 2100000000,
+    "minimum_bid": 1680000000,
+    "failed_count": 1,
+    "bid_date": "2025-12-30",
+    "encumbrances": "근저당 10억(농협은행), 압류 1건(국세청)"
+  },
+  {
+    "case_number": "2024타경78901",
+    "address": "서울 서초구 반포동 789-01 반포자이아파트 103동 1602호",
+    "appraisal_value": 3850000000,
+    "minimum_bid": 2464000000,
+    "failed_count": 2,
+    "bid_date": "2026-01-06",
+    "encumbrances": "근저당 16억(신한은행), 전세권 2억5천"
+  },
+  {
+    "case_number": "2024타경89012",
+    "address": "서울 서초구 서초동 890-12 서초래미안아파트 202동 903호",
+    "appraisal_value": 1950000000,
+    "minimum_bid": 1248000000,
+    "failed_count": 2,
+    "bid_date": "2026-01-06",
+    "encumbrances": "근저당 8억(우리은행), 가압류 3000만(개인)"
+  },
+  {
+    "case_number": "2025타경90123",
+    "address": "서울 송파구 잠실동 901-23 잠실엘스아파트 104동 2501호",
+    "appraisal_value": 2680000000,
+    "minimum_bid": 2144000000,
+    "failed_count": 1,
+    "bid_date": "2026-01-13",
+    "encumbrances": "근저당 11억(KB국민은행)"
+  },
+  {
+    "case_number": "2025타경01234",
+    "address": "서울 송파구 문정동 012-34 문정래미안아파트 301동 1108호",
+    "appraisal_value": 1520000000,
+    "minimum_bid": 1216000000,
+    "failed_count": 1,
+    "bid_date": "2026-01-13",
+    "encumbrances": "근저당 6억(하나은행), 전세권 1억"
+  }
+]
